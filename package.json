@@ -22,6 +22,6 @@
   "devDependencies": {
     "eslint-config-next": "12.2.2",
     "http-server": "14.1.1",
-    "locize-cli": "7.12.2"
+    "locize-cli": "^3.0.1"
   }
 }
